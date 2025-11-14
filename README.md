@@ -1,1 +1,2 @@
 #Pr-diction-de-la-solvabilit-des-entreprises-avec-le-Machine-Learning
+Le projet a pour but de prédire la solvabilté d'une entreprise dans le court terme (moins de 2 ans) en testant le risque de défaillance 
